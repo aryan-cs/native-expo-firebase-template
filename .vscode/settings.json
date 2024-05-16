@@ -1,7 +1,0 @@
-{
-  "files.exclude": {
-    ".expo-shared": true,
-    ".expo": true,
-    ".vscode": true
-  }
-}
